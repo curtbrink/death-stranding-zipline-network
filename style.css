@@ -1,0 +1,45 @@
+body {
+    background-color: #2c2d2f;
+    font-family: "Arial";
+    color: #fbe3b9;
+}
+
+#title {
+    margin: auto;
+    width: 1000px;
+    text-align: center;
+}
+
+#container {
+    margin: auto;
+    background-color: #293462;
+    width: 1000px;
+    height: 1000px;
+    border: 1px solid #fbe3b9;
+}
+
+.prepper {
+    fill: #fbe3b9;
+    font-size: 0.6em;
+}
+
+.line {
+    stroke: #8186d5;
+}
+
+.zipline_mine {
+    fill: #8186d5;
+}
+
+.zipline_not_mine {
+    fill: #ec9b3b;
+}
+
+#links {
+    text-align: center;
+}
+
+#links a {
+    color: #bbb;
+    margin-bottom: 20px;
+}
