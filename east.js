@@ -6,7 +6,11 @@ var scale = {
 var ziplines = [
     { x: 1171.98, y: 833.77, level: 1, mine: false },
     { x: 942.21, y: 802.66, level: 2, mine: false },
-    { x: 773.77, y: 1062.84, level: 1, mine: false },
+    { x: 708.30, y: 1021.23, level: 2, mine: true },
+    { x: 418.69, y: 1189.28, level: 1, mine: true },
+    { x: 339.60, y: 1120.93, level: 2, mine: false },
+    { x: 1289.39, y: 837.90, level: 1, mine: true },
+    { x: 985.21, y: 651.05, level: 1, mine: false },
 ];
 
 // #############################################################################
